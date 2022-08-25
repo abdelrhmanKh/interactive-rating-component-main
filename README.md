@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/abdelrhmanKh/interactive-rating-component-main](https://github.com/abdelrhmanKh/interactive-rating-component-mainm)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://abdelrhmankh.github.io/interactive-rating-component-main/](https://abdelrhmankh.github.io/interactive-rating-component-main/)
 
 ## My process
 
@@ -65,6 +65,6 @@ for (let i = 0; i <= ratting.length - 1; i++) {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [AbdelRahman Khalil](https://abdelrhmankh.github.io/abdelrhmankhalil/)
+- Frontend Mentor - [@abdelrhmanKh](https://www.frontendmentor.io/profile/abdelrhmanKh)
+- LinkedIn - [@Abdelrhman-khalil](https://www.linkedin.com/in/abdelrhman-khalil-ali-9716a0188/)
