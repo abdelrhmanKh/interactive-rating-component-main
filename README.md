@@ -42,7 +42,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- absoulte Postions
+- Absolute positions
 - Mobile-first workflow
 
 ### What I learned
